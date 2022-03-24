@@ -53,7 +53,7 @@ public class BedController {
 	private BedSummaryRepo bedsumRepo;
 
 
-	// Api for test 
+//Api for test 
 
 	@RequestMapping(path = "/test")
 	public ResponseEntity<String> test() {
